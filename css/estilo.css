@@ -72,11 +72,43 @@
         margin-right: auto;
         margin-bottom: 10%;
     }
+    .main-contacto{
+        background-color: black;
+        height:600px ;
+    }
+       .formulario {
+        color: #f0f8ff;
+        margin-top: 50px;
+        border-style: solid;
+        border-color: #f0f8ff;
+border-radius: 10px;
+       } 
+    .col-md-4 {
+    background-color: black;
+    color: aliceblue; 
+}
+.col-md-4 img{
+    width: 45px;
+    height: 45px;
+    background-color: black;
+    
+    
+}
+.row {
+padding-top: 10px;
+}
 
-    /* estilo footer */
+    .mb-3 {
+        color: #f0f8ff;
+        padding: 15px;
+    }
+
+/* estilo footer */
     footer {
         background-color: black;
         color: aliceblue;
         text-align: center;
         height: 100px;
     }
+   
+    
